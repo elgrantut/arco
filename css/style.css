@@ -592,7 +592,7 @@ header.transparent .navigation.scrolling .navbar-nav>.active>a:hover {
 }
 
 .dropdown-submenu>a:after {
-    font-family: "FontAwesome";
+    font-family: "Ubuntu";
     position: absolute;
     content: "\f105";
     right: 15px;
@@ -660,7 +660,7 @@ header.transparent .navigation.scrolling .navbar-nav>.active>a:hover {
 
 .megamenu-item h6 {
     text-transform: uppercase;
-    font-family: "Raleway", sans-serif;
+    font-family: "Ubuntu", sans-serif;
     font-size: 13px;
     font-weight: 600;
     letter-spacing: 0.12em;
@@ -940,12 +940,12 @@ header.transparent .navigation.scrolling .navbar-nav>.active>a:hover {
 .statistic span {
     font-size: 48px;
     font-weight: 300;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     color: #121212;
 }
 
 .statistic h5 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Ubuntu", sans-serif;
     color: #7a7a7a;
 }
 
