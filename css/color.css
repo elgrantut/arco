@@ -1,9 +1,20 @@
-::-moz-selection { color: #fff; background: #2cb8a5; }
-::-webkit-selection { color: #fff; background: #2cb8a5; }
-::selection { color: #fff; background: #2cb8a5; }
+::-moz-selection {
+    color: #fff;
+    background: red;
+}
+
+::-webkit-selection {
+    color: #fff;
+    background: red;
+}
+
+::selection {
+    color: #fff;
+    background: red;
+}
 
 .navbar-toggle:focus .icon-bar,
-.cart-inner a > span,
+.cart-inner a>span,
 .project-icons a:hover,
 #back-to-top:hover,
 .team-details .social-icons a:hover,
@@ -11,9 +22,9 @@
 .nav-cart-remove:hover,
 .ui-slider .ui-slider-range,
 .product-remove .remove:hover,
-.widget.popular-latest .nav.nav-tabs > li.active > a,
-.widget.popular-latest .nav.nav-tabs > li.active > a:hover,
-.widget.popular-latest .nav.nav-tabs > li.active > a:focus,
+.widget.popular-latest .nav.nav-tabs>li.active>a,
+.widget.popular-latest .nav.nav-tabs>li.active>a:hover,
+.widget.popular-latest .nav.nav-tabs>li.active>a:focus,
 .tags a:hover,
 .blockquote-style-1,
 .dropcap.style-2,
@@ -25,33 +36,33 @@
 .social-icons:not(.colored) a:hover,
 .meter .progress-bar,
 .nav-type-6 .overlay-menu ul li:hover {
-	background-color: #2cb8a5; 
+    background-color: red;
 }
 
 a,
 a:hover,
 a:focus,
-.dropdown-menu > li > a:focus,
-.dropdown-menu > li > a:hover,
-.megamenu .menu-list > li > a:hover,
-.megamenu-wide .menu-list > li > a:hover,
-.work-item .work-description > span > a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
+.megamenu .menu-list>li>a:hover,
+.megamenu-wide .menu-list>li>a:hover,
+.work-item .work-description>span>a:hover,
 .top-bar-links li a:hover,
-.nav-cart-title > a:hover,
-.product-details > h3:hover > a,
+.nav-cart-title>a:hover,
+.product-details>h3:hover>a,
 .product-list-widget a:hover,
 .product-img .product-add-to-wishlist a:hover,
 .product_meta span a:hover,
-.table.shop_table .product-name > a:hover,
+.table.shop_table .product-name>a:hover,
 #ticker a:hover,
 .entry-meta li a:hover,
 .widget.categories ul li a:hover,
 #recent-comments li a:hover,
-.overlay-menu ul li.active > a,
+.overlay-menu ul li.active>a,
 .overlay-menu ul li a:hover,
 .breadcrumb a:hover,
 .page-title.style-2 .breadcrumb a:hover,
-blockquote > span,
+blockquote>span,
 .dropcap.style-1,
 .bullets li:before,
 .arrows i,
@@ -59,19 +70,19 @@ blockquote > span,
 .counters i,
 .dark-link:hover,
 .icon-boxes.style-5 .service-item-wrap:hover .service-item-box i {
-	color: #2cb8a5;
+    color: red;
 }
 
 .pagination a:hover,
 .pagination .current,
-.widget.popular-latest .nav.nav-tabs > li.active > a,
-.widget.popular-latest .nav.nav-tabs > li.active > a:hover,
-.widget.popular-latest .nav.nav-tabs > li.active > a:focus,
+.widget.popular-latest .nav.nav-tabs>li.active>a,
+.widget.popular-latest .nav.nav-tabs>li.active>a:hover,
+.widget.popular-latest .nav.nav-tabs>li.active>a:focus,
 .blockquote-style-2 {
-	border-color: #2cb8a5;
+    border-color: red;
 }
 
 .dropdown-menu,
 .nav-cart-container {
-	border-top-color: #2cb8a5;
+    border-top-color: red;
 }
