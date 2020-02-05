@@ -54,7 +54,7 @@ Table of Content
 }
 
 .section-wrap-lg {
-    padding: 120px 0;
+    padding: 150px 0;
     overflow: hidden;
     position: relative;
     background-attachment: fixed;
@@ -1162,6 +1162,84 @@ header.transparent .navigation.scrolling .navbar-nav>.active>a:hover {
 }
 
 
+/* Parallax Especiaistas
+-------------------------------------------------------*/
+
+.parallax-especialistas .parallax {
+    background-image: url(../img/especialistas_bg.jpg);
+}
+
+.parallax-especialistas>div {
+    padding: 185px 0;
+}
+
+.parallax-especialistas h2 {
+    font-size: 24px;
+    margin-bottom: 41px;
+}
+
+.parallax-especialistas .owl-dots {
+    bottom: 29px;
+    position: absolute;
+}
+
+.parallax-especialistas #owl-testimonials {
+    position: static;
+}
+
+.parallax-especialistas .testimonial-text {
+    font-size: 20px;
+    color: #fff;
+    line-height: 34px;
+    margin-bottom: 13px;
+    font-weight: 300;
+}
+
+.parallax-especialistas .testimonial span {
+    color: #a9a9a9;
+    font-size: 14px;
+}
+
+
+/* Parallax Servicios
+-------------------------------------------------------*/
+
+.parallax-servicios .parallax {
+    background-image: url(../img/servicios_bg.jpg);
+}
+
+.parallax-servicios>div {
+    padding: 185px 0;
+}
+
+.parallax-servicios h2 {
+    font-size: 24px;
+    margin-bottom: 41px;
+}
+
+.parallax-servicios .owl-dots {
+    bottom: 29px;
+    position: absolute;
+}
+
+.parallax-servicios #owl-testimonials {
+    position: static;
+}
+
+.parallax-servicios .testimonial-text {
+    font-size: 20px;
+    color: #fff;
+    line-height: 34px;
+    margin-bottom: 13px;
+    font-weight: 300;
+}
+
+.parallax-servicios .testimonial span {
+    color: #a9a9a9;
+    font-size: 14px;
+}
+
+
 /* Parallax Testimonials
 -------------------------------------------------------*/
 
@@ -1433,7 +1511,7 @@ p.footer-address {
 }
 
 .navigation-overlay.sticky.dark {
-    background-color: red;
+    background-color: black;
 }
 
 .navigation-overlay .navbar-nav>li>a {
